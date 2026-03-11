@@ -1,0 +1,14 @@
+{
+  "openclaw/openclaw": "v2026.2.24",
+  "AstroNvim/AstroNvim": "v5.3.15",
+  "jesseduffield/lazygit": "v0.59.0",
+  "BurntSushi/ripgrep": "15.1.0",
+  "sharkdp/fd": "v10.3.0",
+  "junegunn/fzf": "v0.68.0",
+  "moonshine-ai/moonshine": "v0.0.49",
+  "openai/codex": "rust-v0.104.0",
+  "yt-dlp/yt-dlp": "2026.02.21",
+  "jgm/pandoc": "3.9",
+  "astral-sh/uv": "0.10.6",
+  "nodejs/node": "v25.7.0"
+}
